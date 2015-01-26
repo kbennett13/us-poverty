@@ -1,4 +1,4 @@
-visualizations
+us-poverty
 ==============
 
-Visualizations done in Processing with datasets found on the Internet and cleaned with OpenRefine (Google Refine).
+Visualization done in Processing with datasets from the US Census Bureau. Cleaned with OpenRefine (Google Refine).
