@@ -15,7 +15,7 @@ class Data {
       // split the row on the tabs
       String[] pieces = split(rows[i], TAB);
       
-      // copy to the table array
+      // copy to the array
       data[rowCount] = pieces;
       rowCount++;
     }
